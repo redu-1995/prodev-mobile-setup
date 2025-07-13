@@ -27,8 +27,27 @@ Android: Installed via Google Play Store
 
 iOS: (If applicable) Installed via Apple App Store
 
+
 Login / Sign Up:
 Created a new Expo account and logged into the Expo Go app on my physical device.
 
 Testing:
 Successfully scanned a QR code of a test project using the Expo Go app and confirmed it opened correctly.
+
+ 
+  Summary of I I Did
+Initialized a new Expo app with the Expo Router template.
+
+Removed default router folders to reset the app.
+
+Created a fresh index.tsx with:
+
+A styled container (View)
+
+One title <Text> and three additional descriptive <Text> components
+
+Used StyleSheet for scoped styling with custom colors, font sizes, and alignments.
+
+
+
+
